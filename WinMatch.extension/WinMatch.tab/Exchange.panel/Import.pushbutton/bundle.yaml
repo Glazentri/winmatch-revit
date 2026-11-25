@@ -1,0 +1,5 @@
+title: "Import from\nWinMatch"
+author: Glazentri
+tooltip: "Beta · Experimental — limited testing. WinMatch schedule exchange. See Help for supported fields and limitations."
+engine:
+  clean: true

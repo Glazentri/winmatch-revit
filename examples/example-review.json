@@ -1,0 +1,17 @@
+{
+  "pluginVersion": "0.1.0-beta-experimental",
+  "collected": 2,
+  "exported": 2,
+  "issues": [
+    {
+      "id": "W01",
+      "uniqueId": "fictional-element-W01",
+      "message": "Fictional example \u2013 verify configuration and dimension basis."
+    },
+    {
+      "id": "D01",
+      "uniqueId": "fictional-element-D01",
+      "message": "Fictional example \u2013 verify configuration and dimension basis."
+    }
+  ]
+}

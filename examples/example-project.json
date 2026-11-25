@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "p": {
+    "project": "Fictional Revit demo",
+    "revision": "",
+    "measurementBasis": "Internal window size",
+    "notes": "Fictional example; not a real model.",
+    "clearH": 0,
+    "clearW": 0,
+    "revitSource": {
+      "modelId": "fictional-project-id-do-not-import",
+      "title": "Demo",
+      "pluginVersion": "0.1.0-beta-experimental",
+      "exportedAt": "2026-11-26T00:00:00Z",
+      "phase": "New Construction",
+      "scope": "Fictional model",
+      "collected": 2,
+      "exported": 2,
+      "issues": []
+    }
+  },
+  "rows": [
+    {
+      "key": "revit-fictional-element-W01",
+      "id": "W01",
+      "kind": "Window",
+      "room": "Living",
+      "floor": "Ground",
+      "elevation": "",
+      "config": "",
+      "qty": 1,
+      "height": 1200,
+      "width": 1800,
+      "basis": "Internal window size",
+      "clearH": 0,
+      "clearW": 0,
+      "subsill": 0,
+      "subsillMode": "Not required",
+      "revealType": "TBC",
+      "bottomReveal": "TBC",
+      "confirmed": false,
+      "flipped": false,
+      "handing": "TBC",
+      "glazing": "TBC",
+      "glazingLayers": "TBC",
+      "notes": "Fictional example only",
+      "revit": {
+        "uniqueId": "fictional-element-W01",
+        "modelId": "fictional-project-id-do-not-import",
+        "family": "Fictional Window",
+        "type": "Example",
+        "phase": "New Construction",
+        "handFlipped": false,
+        "facingFlipped": false,
+        "dimensionSource": "Example values only",
+        "issues": [
+          "Example data; not a real model."
+        ]
+      }
+    },
+    {
+      "key": "revit-fictional-element-D01",
+      "id": "D01",
+      "kind": "Door",
+      "room": "Dining",
+      "floor": "Ground",
+      "elevation": "",
+      "config": "",
+      "qty": 1,
+      "height": 2100,
+      "width": 2400,
+      "basis": "Internal window size",
+      "clearH": 0,
+      "clearW": 0,
+      "subsill": 0,
+      "subsillMode": "Not required",
+      "revealType": "TBC",
+      "bottomReveal": "No",
+      "confirmed": false,
+      "flipped": false,
+      "handing": "TBC",
+      "glazing": "TBC",
+      "glazingLayers": "TBC",
+      "notes": "Fictional example only",
+      "revit": {
+        "uniqueId": "fictional-element-D01",
+        "modelId": "fictional-project-id-do-not-import",
+        "family": "Fictional Door",
+        "type": "Example",
+        "phase": "New Construction",
+        "handFlipped": false,
+        "facingFlipped": false,
+        "dimensionSource": "Example values only",
+        "issues": [
+          "Example data; not a real model."
+        ]
+      }
+    }
+  ],
+  "quotes": {},
+  "docs": [],
+  "procurement": [],
+  "preorder": {}
+}

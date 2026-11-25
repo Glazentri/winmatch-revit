@@ -1,0 +1,450 @@
+{
+  "1": {
+    "group": "Sliding Windows",
+    "code": "SF"
+  },
+  "2": {
+    "group": "Sliding Windows",
+    "code": "SFS"
+  },
+  "3": {
+    "group": "Sliding Windows",
+    "code": "FSSF"
+  },
+  "4": {
+    "group": "Sliding Windows",
+    "code": "SF/FF"
+  },
+  "5": {
+    "group": "Sliding Windows",
+    "code": "SFS/FFF"
+  },
+  "6": {
+    "group": "Sliding Windows",
+    "code": "FSSF/FFF"
+  },
+  "7": {
+    "group": "Sliding Windows",
+    "code": "SSF"
+  },
+  "8": {
+    "group": "Sliding Windows",
+    "code": "FSSSSF"
+  },
+  "9": {
+    "group": "Sliding Windows",
+    "code": "SSF/FF"
+  },
+  "11": {
+    "group": "Awning Windows",
+    "code": "A"
+  },
+  "12": {
+    "group": "Awning Windows",
+    "code": "AA"
+  },
+  "13": {
+    "group": "Awning Windows",
+    "code": "AF"
+  },
+  "14": {
+    "group": "Awning Windows",
+    "code": "AAA"
+  },
+  "15": {
+    "group": "Awning Windows",
+    "code": "AFA"
+  },
+  "16": {
+    "group": "Awning Windows",
+    "code": "A/F"
+  },
+  "17": {
+    "group": "Awning Windows",
+    "code": "AA/F"
+  },
+  "18": {
+    "group": "Awning Windows",
+    "code": "AF/F"
+  },
+  "19": {
+    "group": "Awning Windows",
+    "code": "AA/FF"
+  },
+  "20": {
+    "group": "Awning Windows",
+    "code": "AF/FF"
+  },
+  "21": {
+    "group": "Awning Windows",
+    "code": "AAA/FFF"
+  },
+  "22": {
+    "group": "Awning Windows",
+    "code": "AFA/FFF"
+  },
+  "23": {
+    "group": "Awning Windows",
+    "code": "A-WIDE"
+  },
+  "24": {
+    "group": "Awning Windows",
+    "code": "A-TALL"
+  },
+  "25": {
+    "group": "Awning Windows",
+    "code": "AAF"
+  },
+  "26": {
+    "group": "Awning Windows",
+    "code": "AFF"
+  },
+  "27": {
+    "group": "Awning Windows",
+    "code": "AAAA"
+  },
+  "28": {
+    "group": "Awning Windows",
+    "code": "AFFA"
+  },
+  "29": {
+    "group": "Awning Windows",
+    "code": "A/F-F"
+  },
+  "31": {
+    "group": "Casement",
+    "code": "C"
+  },
+  "32": {
+    "group": "Casement",
+    "code": "CC"
+  },
+  "33": {
+    "group": "Casement",
+    "code": "CF"
+  },
+  "34": {
+    "group": "Casement",
+    "code": "CCC"
+  },
+  "35": {
+    "group": "Casement",
+    "code": "CFC"
+  },
+  "36": {
+    "group": "Casement",
+    "code": "CCCC"
+  },
+  "37": {
+    "group": "Casement",
+    "code": "C/F"
+  },
+  "38": {
+    "group": "Casement",
+    "code": "CF/F"
+  },
+  "39": {
+    "group": "Casement",
+    "code": "CC/F"
+  },
+  "40": {
+    "group": "Casement",
+    "code": "CF/FF"
+  },
+  "41": {
+    "group": "Casement",
+    "code": "CC/FF"
+  },
+  "42": {
+    "group": "Casement",
+    "code": "CCC/FFF"
+  },
+  "43": {
+    "group": "Casement",
+    "code": "CFC/FFF"
+  },
+  "44": {
+    "group": "Casement",
+    "code": "CCF"
+  },
+  "45": {
+    "group": "Casement",
+    "code": "CFF"
+  },
+  "46": {
+    "group": "Casement",
+    "code": "CFFC"
+  },
+  "48": {
+    "group": "Double Hung",
+    "code": "D"
+  },
+  "49": {
+    "group": "Double Hung",
+    "code": "DD"
+  },
+  "50": {
+    "group": "Double Hung",
+    "code": "DF"
+  },
+  "51": {
+    "group": "Double Hung",
+    "code": "DDD"
+  },
+  "52": {
+    "group": "Double Hung",
+    "code": "DFD"
+  },
+  "53": {
+    "group": "Double Hung",
+    "code": "D/F"
+  },
+  "54": {
+    "group": "Double Hung",
+    "code": "DD/F"
+  },
+  "55": {
+    "group": "Double Hung",
+    "code": "DF/FF"
+  },
+  "56": {
+    "group": "Double Hung",
+    "code": "DFD/FFF"
+  },
+  "57": {
+    "group": "Double Hung",
+    "code": "DDF"
+  },
+  "58": {
+    "group": "Double Hung",
+    "code": "DFF"
+  },
+  "59": {
+    "group": "Double Hung",
+    "code": "DDDD"
+  },
+  "60": {
+    "group": "Double Hung",
+    "code": "DFFD"
+  },
+  "62": {
+    "group": "Louvres",
+    "code": "L"
+  },
+  "63": {
+    "group": "Louvres",
+    "code": "LL"
+  },
+  "64": {
+    "group": "Louvres",
+    "code": "LLL"
+  },
+  "65": {
+    "group": "Louvres",
+    "code": "LF"
+  },
+  "66": {
+    "group": "Louvres",
+    "code": "LFL"
+  },
+  "67": {
+    "group": "Louvres",
+    "code": "LLF"
+  },
+  "68": {
+    "group": "Louvres",
+    "code": "LLLL"
+  },
+  "69": {
+    "group": "Louvres",
+    "code": "LFFL"
+  },
+  "71": {
+    "group": "Bi Fold Windows",
+    "code": "220"
+  },
+  "72": {
+    "group": "Bi Fold Windows",
+    "code": "440"
+  },
+  "73": {
+    "group": "Bi Fold Windows",
+    "code": "422"
+  },
+  "74": {
+    "group": "Bi Fold Windows",
+    "code": "660"
+  },
+  "75": {
+    "group": "Bi Fold Windows",
+    "code": "642"
+  },
+  "77": {
+    "group": "Fixed Windows",
+    "code": "F"
+  },
+  "78": {
+    "group": "Fixed Windows",
+    "code": "FF"
+  },
+  "79": {
+    "group": "Fixed Windows",
+    "code": "F/F"
+  },
+  "80": {
+    "group": "Fixed Windows",
+    "code": "Rake"
+  },
+  "81": {
+    "group": "Fixed Windows",
+    "code": "Circle"
+  },
+  "82": {
+    "group": "Fixed Windows",
+    "code": "Arch"
+  },
+  "84": {
+    "group": "Sliding Doors",
+    "code": "SF"
+  },
+  "85": {
+    "group": "Sliding Doors",
+    "code": "FSF"
+  },
+  "86": {
+    "group": "Sliding Doors",
+    "code": "SSF"
+  },
+  "87": {
+    "group": "Sliding Doors",
+    "code": "FSSF"
+  },
+  "88": {
+    "group": "Sliding Doors",
+    "code": "FSSSSF"
+  },
+  "89": {
+    "group": "Sliding Doors",
+    "code": "SSSF"
+  },
+  "90": {
+    "group": "Sliding Doors",
+    "code": "SSSSF"
+  },
+  "91": {
+    "group": "Sliding Doors",
+    "code": "FSSSSSSF"
+  },
+  "93": {
+    "group": "Bi Fold Doors",
+    "code": "220"
+  },
+  "94": {
+    "group": "Bi Fold Doors",
+    "code": "321"
+  },
+  "95": {
+    "group": "Bi Fold Doors",
+    "code": "330"
+  },
+  "96": {
+    "group": "Bi Fold Doors",
+    "code": "422"
+  },
+  "97": {
+    "group": "Bi Fold Doors",
+    "code": "431"
+  },
+  "98": {
+    "group": "Bi Fold Doors",
+    "code": "440"
+  },
+  "99": {
+    "group": "Bi Fold Doors",
+    "code": "532"
+  },
+  "100": {
+    "group": "Bi Fold Doors",
+    "code": "541"
+  },
+  "101": {
+    "group": "Bi Fold Doors",
+    "code": "550"
+  },
+  "102": {
+    "group": "Bi Fold Doors",
+    "code": "633"
+  },
+  "103": {
+    "group": "Bi Fold Doors",
+    "code": "642"
+  },
+  "104": {
+    "group": "Bi Fold Doors",
+    "code": "651"
+  },
+  "105": {
+    "group": "Bi Fold Doors",
+    "code": "844"
+  },
+  "106": {
+    "group": "Bi Fold Doors",
+    "code": "853"
+  },
+  "107": {
+    "group": "Bi Fold Doors",
+    "code": "862"
+  },
+  "108": {
+    "group": "Bi Fold Doors",
+    "code": "871"
+  },
+  "109": {
+    "group": "Bi Fold Doors",
+    "code": "880"
+  },
+  "111": {
+    "group": "French Doors",
+    "code": "F"
+  },
+  "112": {
+    "group": "French Doors",
+    "code": "FF"
+  },
+  "113": {
+    "group": "French Doors",
+    "code": "XFF"
+  },
+  "114": {
+    "group": "French Doors",
+    "code": "XFFX"
+  },
+  "116": {
+    "group": "Pivot Doors",
+    "code": "P"
+  },
+  "117": {
+    "group": "Pivot Doors",
+    "code": "PP"
+  },
+  "118": {
+    "group": "Pivot Doors",
+    "code": "XPP"
+  },
+  "119": {
+    "group": "Pivot Doors",
+    "code": "XPPX"
+  },
+  "121": {
+    "group": "Standard Hinged Door",
+    "code": "A Type"
+  },
+  "122": {
+    "group": "Standard Hinged Door",
+    "code": "B Type"
+  },
+  "custom-panel-window": {
+    "group": "Custom Windows",
+    "code": "CW"
+  }
+}
